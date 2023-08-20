@@ -1,4 +1,4 @@
-# Book Recomendation System  USing colleborative Filtering Techinque
+# Book Recomendation System  Using Collaborative Filtering 
 
 ## Point to be keep in mind:
 ### i used python version 3.9 so, so go with that, or create a venv of python 3.9;
